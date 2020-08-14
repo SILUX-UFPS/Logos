@@ -6,3 +6,6 @@ Logos de SILUX
 
 ### Logo solo y sin fondo
 ![alt text](https://raw.githubusercontent.com/SILUX-UFPS/Logos/master/SILUX-solo-png.png?token=ACBRXYZYPS5CDSAMPFDLXW27G3BIU)
+
+### SILUX-fondo-blanco.jpg
+![alt text](https://raw.githubusercontent.com/SILUX-UFPS/Logos/master/SILUX-solo-png.png?token=ACBRXYZYPS5CDSAMPFDLXW27G3BIU)
